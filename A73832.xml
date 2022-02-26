@@ -1,0 +1,801 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe dialogue, concerning preparation for the worthy receiuing of the Lords Supper. Taken, for the most part, out of the ten sermons of Mr I. Dod, and Mr. R. Cleaver, touching that subiect</title>
+            <author>Dod, John, 1549?-1645.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1614</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73832</idno>
+            <idno type="STC">STC 6935.5</idno>
+            <idno type="STC">ESTC S125208</idno>
+            <idno type="EEBO-CITATION">99900499</idno>
+            <idno type="PROQUEST">99900499</idno>
+            <idno type="VID">173386</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73832)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173386)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2039:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe dialogue, concerning preparation for the worthy receiuing of the Lords Supper. Taken, for the most part, out of the ten sermons of Mr I. Dod, and Mr. R. Cleaver, touching that subiect</title>
+                  <author>Dod, John, 1549?-1645.</author>
+                  <author>Dod, John, 1549?-1645. Ten sermons tending chiefely to the fitting of men for the worthy receiving of the Lords Supper.</author>
+                  <author>Cleaver, Robert, 1561 or 2-ca. 1625. aut</author>
+               </titleStmt>
+               <extent>[36] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by I. B[eale]. for Roger Iackson, and are to be sold at his shop neere Fleete Conduit,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1614.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reprints part of "Ten sermons tending chiefely to the fitting of men for the worth receiving of the Lords Supper" by John Dod and Robert Cleaver.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Running title reads: A dialogue of preparation to the Lords Supper.</note>
+                  <note>Signatures: A-B C⁴ (-A1, C4, blanks?).</note>
+                  <note>Reproduction of original in the British Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lord's Supper --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173386:1" rendition="simple:additions"/>
+            <p>A BRIEFE DIALOGVE, Concerning preparation for <hi>the worthy receiuing of the Lords</hi> SVPPER.</p>
+            <p>
+               <hi>Taken, for the most part, out of</hi> the ten Sermons of M<hi rend="sup">r</hi> I. DOD, and Mr. R. CLEAVER, <hi>tou<g ref="char:EOLhyphen"/>ching that Subiect.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>LONDON Printed by <hi>I. B.</hi> for <hi>Roger Iackson,</hi> and are to be ſold at his ſhop neere FIeet Conduit, 1614.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:173386:2"/>
+            <pb facs="tcp:173386:2"/>
+            <head>A DIALOGVE of Preparation to the Lords SVPPER.</head>
+            <sp>
+               <speaker>Queſtion.</speaker>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">W</seg>Hat is the Lords Supper?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Anſwere.</speaker>
+               <p>It is a Sacrament of the <note place="margin">
+                     <hi>Mat.</hi> 26. 28</note> eternall Couenant, where<g ref="char:EOLhyphen"/>by through the vſe of bread and wine rightly adminiſtred, and faith<g ref="char:EOLhyphen"/>fully <note place="margin">
+                     <hi>Ioh.</hi> 6. 27. 54. <hi>&amp;c</hi>
+                  </note> receiued, the ſoules of them that are ingrafted into Chriſt, are ſpiritually nou<g ref="char:EOLhyphen"/>riſhed vnto eternall life.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>What then is required of thoſe that will be pertakers of this heauenly foode at the Lords Table?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>They muſt bée prepared as méete <note place="margin">
+                     <hi>Mat.</hi> 22. 12 1 <hi>Cor.</hi> 11. 28.</note> gueſts for ſuch a banquet.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>For the better attaining to this pre<g ref="char:EOLhyphen"/>paration, how many things are there to be conſidered?</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:173386:3"/>
+               <speaker>A.</speaker>
+               <p>Thrée: firſt, what is to be done be<g ref="char:EOLhyphen"/>fore the parting of it: ſecondly, what at it: thirdly, what after it.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>What is it that muſt be done before?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>There muſt be, firſt, an examinati<g ref="char:EOLhyphen"/>on how fit wée are to receiue: ſecondly, a <note place="margin">1 <hi>Exami<g ref="char:EOLhyphen"/>nation.</hi>
+                  </note> premeditation of the benefits that wee are to receiue: thirdly, a faithfull and feruent prayer for Gods bleſſing vpon our exami<g ref="char:EOLhyphen"/>nation, premeditation and receiuing.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>Of what points are we to examine our ſelues?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Firſt, in generall, whether wée be of the number of the faithfull, and haue in vs the life of grace: for otherwiſe wée are vtterly vnfit to be partakers of the Lords Supper, which is appointed for foode to continue ſpirituall life where it is, and not to worke it where it is not: to bée for nouriſhment vnto Gods Children, but for the bane and deſtruction of dogs &amp; ſwine, that dare preſume to meddle with the ſame. Secondly, we muſt examine our ſelues more particularly.</p>
+            </sp>
+            <sp>
+               <speaker>Q</speaker>
+               <p>Concerning what matters?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Whether wée haue attained vnto a competent meaſure of Repentance, knowledge, faith, and loue: which if wee
+<pb facs="tcp:173386:3"/> can find in our ſelues, wée may reſolue our hearts in that point of generall exami<g ref="char:EOLhyphen"/>nation, and conclude that wée are within the couenant of grace, and haue commu<g ref="char:EOLhyphen"/>nion with Chriſt Ieſus, &amp; therefore are in ſtate to be communicants at his Table.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>How ſhould we trie our ſelues in the matter of Repentance?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Wée muſt examine, firſt, whether wee haue at any time carefully ſifted our <note place="margin">1 <hi>Repen<g ref="char:EOLhyphen"/>tance.</hi>
+                  </note> hearts and behauior, to find out as many of our corruptions as poſſibly we could. Secondly, whether we haue been, and are heartily ſorrowfull for the ſame. Thirdly, whether wée haue rightly confeſſed them before the Lord, with an earneſt deſire of the pardon thereof. Fourthly, whether we purpoſe and reſolue for euer hereafter (through Gods gracious aſſiſtance) to re<g ref="char:EOLhyphen"/>forme both our hearts and wayes.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>Is there any neceſſity of that ſear<g ref="char:EOLhyphen"/>ching of our ſelues?</p>
+            </sp>
+            <sp>
+               <speaker>A</speaker>
+               <p>Yes verily: for otherwiſe we ſhall be found hiders of ſins, which hindreth all <note place="margin">1 <hi>Searching. See the Sermon on <hi>Pro.</hi>
+                     </hi> 28. 13. <hi>Doct.</hi> 1. <hi>Iob.</hi> 20. 12.</note> true proſperity, and argueth plainely that there is in vs a loue of iniquity, and abun<g ref="char:EOLhyphen"/>dance of hypocriſy, which will kéep vs from reaping benefit by the word or ſacrament.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:173386:4"/>
+               <speaker>Q</speaker>
+               <p>VVhereby ſhould we try our ſelues to the intent that wee may come to a more full and particular ſight of our cor<g ref="char:EOLhyphen"/>ruptions.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By the Law of God, which is the true touchſtone: examining our ſelues by euery Commandement, that ſo wée may diſcerne, if not all, yet the moſt part of the corruptions of our Soules, and errours of our liues: and for our more orderly procée<g ref="char:EOLhyphen"/>ding herein, wée may vſe this direction following: wherein are ſet downe the chiefe heads of moſt of the ſinnes againſt euery Commandement,
+<list>
+                     <head>Sinnes againſt the firſt Commandement.</head>
+                     <item>1 ATheiſme, which is, when men ei<g ref="char:EOLhyphen"/>ther <note place="margin">
+                           <hi>If any doe deſire proofes of Scripture for theſe particular ſins men<g ref="char:EOLhyphen"/>tioned, he may vſe the helpe of M<hi rend="sup">r</hi> 
+                              <hi>Dods</hi> Booke on the com<g ref="char:EOLhyphen"/>mande<g ref="char:EOLhyphen"/>ments or of the <hi>True watc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>
+                              </hi> where ma<g ref="char:EOLhyphen"/>ny of theſe are tou<g ref="char:EOLhyphen"/>ched.</hi>
+                        </note> thinke there is no God, or liue as if there were no God.</item>
+                     <item>2 Idolatry: which is, the hauing of a falſe god.</item>
+                     <item>3 Ignorance, vncapablenes of know<g ref="char:EOLhyphen"/>ledge, errors, and hereſies.</item>
+                     <item>4 Forgetfulneſſe of good things, eſpe<g ref="char:EOLhyphen"/>cially of thoſe that moſt concerne vs, and chiefly at that inſtant when wée ſhould make vſe of them. Secondly, remembring of euill things; eſpecially of thoſe that
+<pb facs="tcp:173386:4"/> moſt corrupt vs: and chiefly then, when wee ſhould be moſt frée from the thought of them.</item>
+                     <item>5 Vnwillingneſſe vnto good things, principally to the beſt: readineſſe vnto, and wilfulneſſe in euill, eſpecially the worſt. Secondly, impatience vnder croſſes.</item>
+                     <item>6 Diſtruſt of Gods power, mercy, pro<g ref="char:EOLhyphen"/>miſes, and prouidence, whence carnall feares are wrought and cheriſhed, and the true feare of God is expelled &amp; baniſhed.</item>
+                     <item>7 Preſumption vpon Gods mercy.</item>
+                     <item>8 Carnall confidence in wit, learning, wealth ſtrength, friends, &amp;c. thinking our ſelues the better, or more ſafe ſimply for them: whence ariſeth pride and ſecurity.</item>
+                     <item>9 Too much loue of euill: as alſo of our ſelues, our friends, our pleaſure, pro<g ref="char:EOLhyphen"/>fit, credit, &amp;c. Secondly, too little loue of God, and of goodneſſe, of Gods ſeruants, and ſeruices.</item>
+                     <item>10 Hatred of God and goodneſſe. Se<g ref="char:EOLhyphen"/>condly, want of hatred againſt our owne, and others ſinnes.</item>
+                     <item>11 Abundance of worldly ſorrow, ſhame, and diſcontentment. Secondly, want of ſpirituall griefe, and indignati<g ref="char:EOLhyphen"/>on againſt our owne and others tranſ<g ref="char:EOLhyphen"/>greſſions.
+<pb facs="tcp:173386:5"/> Thirdly, not lamenting for the calamities of Gods people, priuate or publike.</item>
+                     <item>12 Immoderate carnall mirth: too little ſpiritiuall ioy.</item>
+                     <item>13 Hardnes of heart, benummednes of conſcience: or helliſh terrors and accu<g ref="char:EOLhyphen"/>ſations, procéeding from doing things ei<g ref="char:EOLhyphen"/>ther without, or againſt the rules of the Word.</item>
+                  </list>
+                  <list>
+                     <head>Sinnes againſt the ſecond Commandement.</head>
+                     <item>1 BAſe and vnwarranted conceits of God, as when we frame any Image of him in our minds.</item>
+                     <item>2 Worſhipping of Images.</item>
+                     <item>3 Adoration of Angels or Saints, ob<g ref="char:EOLhyphen"/>ſeruing holy dayes in deuotion to them, ſwearing by them, &amp;c.</item>
+                     <item>4 Approbation of Idolatry by pre<g ref="char:EOLhyphen"/>ſence, ſpéech, geſture, ſilence, kéeping of ſu<g ref="char:EOLhyphen"/>perſtitious relickes or monuments, kée<g ref="char:EOLhyphen"/>ping company with Idolaters, &amp;c.</item>
+                     <item>5 Neglect of any of Gods ordinances, as of preaching, hearing, reading, medita<g ref="char:EOLhyphen"/>tion, conference, the vſe of good bookes, and
+<pb facs="tcp:173386:5"/> of good company, of priuate and publike prayer, faſting, making of vowes, &amp;c.</item>
+                     <item>6 Superſtitious faſting, raſh vowes, breach of lawfull vowes, abuſe of lots, &amp;c.</item>
+                     <item>7 Want of ſorrow for being borne of Idolatrous fore-fathers.</item>
+                  </list>
+                  <list>
+                     <head>Sinnes againſt the third Commandement.</head>
+                     <item>1 PRofeſſion ioyned with prophane<g ref="char:EOLhyphen"/>neſſe, whereby Gods name is diſho<g ref="char:EOLhyphen"/>noured.</item>
+                     <item>2 Abuſing of Gods word: firſt, by fruit<g ref="char:EOLhyphen"/>leſſe ſpeaking of it: ſecondly, framing ieſts out of it, or againſt it: thirdly, maintai<g ref="char:EOLhyphen"/>ning of ſinne by it: fourthly, applying it to charming, &amp;c.</item>
+                     <item>3 Abuſing the names or titles of God: firſt, by admiration, as by ſaying in our common talke, Oh Lord, Oh Ieſus, &amp;c. Secondly, by curſing, &amp;c.</item>
+                     <item>4 Swearing vainely, outragiouſly, and falſely, &amp;c.</item>
+                     <item>5 Blaſpheming.</item>
+                     <item>6 Taking a lawfull oath without due reuerence and conſideration.</item>
+                     <item>7 Praying without faith, féeling, re<g ref="char:EOLhyphen"/>uerence, feruency, not waiting for
+<pb facs="tcp:173386:6"/> anſwere. &amp;c. Aſking euill thinks: aiming more in our requeſts at the relieuing of our neceſſity, then at the aduancement of Gods glory.</item>
+                     <item>8 Hearing, reading, meditating, con<g ref="char:EOLhyphen"/>ferring, ſinging of pſalmes, and receiuing the Sacrament without preparation, at<g ref="char:EOLhyphen"/>tencion, renerence, delight, and profit.</item>
+                     <item>9 Light paſſing ouer of Gods great workes, of creation, preſeruation, redemp<g ref="char:EOLhyphen"/>tion, as alſo of other his mercies &amp; iudge<g ref="char:EOLhyphen"/>ments.</item>
+                     <item>10 Abuſe of our Chriſtian liberty, to the hardening, inſuaring, peruerting, or iuſt grieuing of any</item>
+                  </list>
+                  <list>
+                     <head>Sinnes againſt the fourth Commandement.</head>
+                     <item>1 NEglect of peparation for the Sa<g ref="char:EOLhyphen"/>both before it come, and of fiting our hearts for holy ſeruices when it is come.</item>
+                     <item>2 Prophane abſence from. or vnfruit<g ref="char:EOLhyphen"/>full preſence at Gods ordinances.</item>
+                     <item>3 Exceſſiue eating and drinking, which cauſeth drouſineſſe, &amp; vnfitneſſe for Gods worſhip.</item>
+                     <pb facs="tcp:173386:6"/>
+                     <item> 4 Doing any ordinary worke of our calling.</item>
+                     <item>5 All recreations which diſtract.</item>
+                     <item>6 Vaine and worldly ſpéeches, and thoughts.</item>
+                     <item>7 A ſecret deſire that the Sabbath were ouer.</item>
+                     <item>8 Neglect of calling our ſelues, or o<g ref="char:EOLhyphen"/>thers to a reckoning after holy excerciſes.</item>
+                     <item>9 Giuing liberty to our ſelues in the night before the whole Sabbath bath be ended.</item>
+                  </list>
+                  <list>
+                     <head>Sinnes againſt the fift Commandement.</head>
+                     <item>Sinnes of all inferiours in reſpect of their ſuperiours.
+<list>
+                           <item>1 VVAnt of reuerence inward, or outward: ſecondly, neglect of prayer: thirdly, of humble ſubmiſſion.</item>
+                        </list>
+                     </item>
+                     <item>Sinnes of all Superiours.
+<list>
+                           <item>Firſt want of loue: ſecondly failing in prayer: thirdly in giuing good example.</item>
+                        </list>
+                     </item>
+                     <item>Sinnes of Children in reſpect of their Parents.
+<list>
+                           <item>1 Diſobedience.</item>
+                           <item>2 Murmuring at their Parents correc<g ref="char:EOLhyphen"/>tions, though vniuſt.</item>
+                           <pb facs="tcp:173386:7"/>
+                           <item> 3 Contemning them for any defect of body or minde.</item>
+                           <item>4 Vnthankfulneſſe in not reléeuing them, not ſtanding for their deſerued cre<g ref="char:EOLhyphen"/>dit, &amp;c.</item>
+                        </list>
+                     </item>
+                     <item>Sinnes of parents.
+<list>
+                           <item>1 Negligence in not inſtructing their children betime.</item>
+                           <item>2 Not correcting them till it be too late, or doing it with vitterneſſe without com<g ref="char:EOLhyphen"/>paſſion, inſtruction, and prayer.</item>
+                           <item>3 Giuing them ill example.</item>
+                           <item>4 Neglect of bringing them vp in ſome lawfull calling.</item>
+                           <item>5 Not beſtowing them timely, and re<g ref="char:EOLhyphen"/>ligiouſly in marriage.</item>
+                           <item>6 Light behauiour before them, and too much familiarity with them, whereby they become vile in their eyes.</item>
+                           <item>7 Louing beauty, or any outward parts more then Gods Image in them.</item>
+                           <item>8 A ſinne peculiar in the mother is re<g ref="char:EOLhyphen"/>fuſing to nurſe them</item>
+                        </list>
+                     </item>
+                     <item>Seruants ſinnes in reſpect of their Gouernours. The three firſt ſins of Children may be in ſeruants, as alſo theſe that follow
+<list>
+                           <item>1 Idleneſſe in their calling.</item>
+                           <pb facs="tcp:173386:7"/>
+                           <item> 2 Vnthriftines &amp; vnfaithfulnes in dea<g ref="char:EOLhyphen"/>ling with their Maſters goods &amp; affaires.</item>
+                           <item>3 Stealing, priuy defrauding of them.</item>
+                           <item>4 Eye ſeruice.</item>
+                        </list>
+                     </item>
+                     <item>Diuers ſins of Parents are found in Ma<g ref="char:EOLhyphen"/>ſters, as theſe that follow.
+<list>
+                           <item>1 Vnaduiſed entertainment of ſinfull ſeruants.</item>
+                           <item>2 Not vſing religious exerciſes with them: not admoniſhing nor correcting them, or doing it in an ill manner: grie<g ref="char:EOLhyphen"/>uing more when they faile in their buſi<g ref="char:EOLhyphen"/>neſſe, then when they are ſlacke in Gods ſeruice.</item>
+                           <item>3 Not recompencing their labours by giuing them a due reward when they are with them, &amp; when they part from them.</item>
+                           <item>4 Neglect of them in ſickneſſe: vniuſt ſtopping of their wages for that time.</item>
+                           <item>5 Not relieuing them (if they be able) in their age, who haue ſpent their youth in their ſeruice.</item>
+                        </list>
+                     </item>
+                     <item>Sinnes of the wife in reſpect of her Husband.
+<list>
+                           <item>1 Failing in reuerence, which appea<g ref="char:EOLhyphen"/>reth in froward lookes, ſpèeches, or behaui<g ref="char:EOLhyphen"/>our.</item>
+                           <pb facs="tcp:173386:8"/>
+                           <item> 2 Diſobedience in the ſmalleſt matters.</item>
+                        </list>
+                     </item>
+                     <item>Sinnes of the Husband.
+<list>
+                           <item>1 Not dwelling with his wife.</item>
+                           <item>2 Neglect of edifying her by inſtructi<g ref="char:EOLhyphen"/>on and example.</item>
+                           <item>3 Denying her comfortable mainte<g ref="char:EOLhyphen"/>nance, and imployment.</item>
+                        </list>
+                     </item>
+                     <item>Snnes common to them both.
+<list>
+                           <item>1 Want of loue.</item>
+                           <item>2 Bewraying one anothers infirmi<g ref="char:EOLhyphen"/>ties: diſcouering each others ſecrets.</item>
+                           <item>3 Iealouſie. 4 Contention.</item>
+                        </list>
+                     </item>
+                     <item>Sinnes of the people in regard of their Miniſters.
+<list>
+                           <item>1 Diſobeying and oppoſing againſt their doctrine.</item>
+                           <item>2 Denying them competent mainte<g ref="char:EOLhyphen"/>nance.</item>
+                           <item>3 Not ſtanding for them when they are wronged.</item>
+                        </list>
+                     </item>
+                     <item>Sinnes of Miniſters.
+<list>
+                           <item>1 Slackneſſe in preaching.</item>
+                           <item>2 Vnprofitable or hurtfull teaching.</item>
+                           <item>3 Giuing ill example.</item>
+                        </list>
+                     </item>
+                     <item>Sinnes of Subiects.
+<list>
+                           <item>1 Rebellion. 2. Refuſing to pay dues.</item>
+                        </list>
+                     </item>
+                     <pb facs="tcp:173386:8"/>
+                     <item>Sinnes of Magiſtrates.
+<list>
+                           <item>1 Careleſneſſe in eſtabliſhing and pro<g ref="char:EOLhyphen"/>moting true religion.</item>
+                           <item>2 Of maintaining peace, and proui<g ref="char:EOLhyphen"/>ding that Malefactors may bée puniſhed, and well doers be encouraged.</item>
+                        </list>
+                     </item>
+                     <item>Sinnes of Inferiors in gifts or age.
+<list>
+                           <item>1 No<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> acknowledging, nor reueren<g ref="char:EOLhyphen"/>cing, nor imitating the graces of their ſu<g ref="char:EOLhyphen"/>periors.</item>
+                           <item>2 <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>eſpiſing of the aged.</item>
+                           <item>See the ſinnes of Superiors in gifts or age, in the very beginning of the fift Com<g ref="char:EOLhyphen"/>mandement.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Sinnes againſt the ſixt Comman<g ref="char:EOLhyphen"/>dement.</head>
+                     <item>1 RAſh anger, enuy, hatred, &amp; malice.</item>
+                     <item>2 Brawling, reuiling, threatning, and prouoking of others.</item>
+                     <item>3 Fighting.</item>
+                     <item>4 Cruelty in puniſhing, oppreſſion, &amp;c.</item>
+                     <item>5 Murthering of ourſelues or others, or conſent thereto.</item>
+                     <item>6 Immoderate worldly ſorrow: neg<g ref="char:EOLhyphen"/>lect of Phiſicke, or wholeſome diet, and ex<g ref="char:EOLhyphen"/>erciſe in ſurfeting &amp; drunkennes, all which are enemies to the health and life of man.</item>
+                     <item>7 Cruelty to our own, or others ſoules.</item>
+                  </list>
+                  <list>
+                     <pb facs="tcp:173386:9"/>
+                     <head>
+                        <hi>Sinnes againſt the</hi> 7. <hi>Commandement</hi>
+                     </head>
+                     <item>1 ADultery, fornication, inceſt, rape, Sodomie.</item>
+                     <item>2 All wantonnes, ſecret or open, alone or with others.</item>
+                     <item>3 Nocturnall pollutions, and luſtfull dreames, &amp;c.</item>
+                     <item>4 Vnholy marriages, in regard of re<g ref="char:EOLhyphen"/>ligion, age, néerenes of blood, want of pa<g ref="char:EOLhyphen"/>rents conſent, &amp;c.</item>
+                     <item>2 Abuſe of the ma<g ref="char:EOLhyphen"/>riage bed, not obſer<g ref="char:EOLhyphen"/>uing the time of
+<list>
+                           <item>naturall ſeparation</item>
+                           <item>
+                              <hi>Leu.</hi> 28. 19.</item>
+                           <item>ſolemn humiliation</item>
+                        </list>
+                     </item>
+                     <item>6 Nouriſhing of the cauſes and occaſi<g ref="char:EOLhyphen"/>ons of wantonneſſe, as impure luſts, ſur<g ref="char:EOLhyphen"/>fetting, drunkenneſſe, idlenes, laſciuious apparrell, ſociety with laſciuious perſons, lewd bookes, ſongs or ſpéeches: wnaton lookes, pictures, ſtage-playes, dauncing, dalliance, &amp;c.</item>
+                     <item>7 Wearing apparel contrary to our ſex.</item>
+                     <item>8 Vnlawfull diuorce.</item>
+                  </list>
+                  <list>
+                     <head>Sinnes of the eight Commandement.</head>
+                     <item>1 COuetouſnes, and all deſire of our neighbours goods, albeit through feare or ſhame we cannot get them.</item>
+                     <pb facs="tcp:173386:9"/>
+                     <item> 2 Church-robbing.</item>
+                     <item>3 Robbing of our ſelues by waſtful<g ref="char:EOLhyphen"/>neſſe in diet, apparell, gaming, &amp;c: by idle<g ref="char:EOLhyphen"/>nes, vnaduiſed ſuretiſhip, nigardlines, &amp;c.</item>
+                     <item>4 Robbing of others, taking away the ſmalleſt things: firſt by fraude: ſecondly<g ref="char:EOLhyphen"/>vncharitable incloſure: thirdly, dealing wrongfully with the goods of the decea<g ref="char:EOLhyphen"/>ſed: fourthly, deceit in buying and ſelling:<g ref="char:punc">▪</g> fifthly, with-holding either things com<g ref="char:EOLhyphen"/>mitted vnto vs, or things found lent, ear<g ref="char:EOLhyphen"/>ned, or otherwiſe due.</item>
+                     <item>5 Not making of reſtitution.</item>
+                     <item>6 Counſelling, or conſenting to others in theft.</item>
+                  </list>
+                  <list>
+                     <head>Sinnes againſt the ninth Com<g ref="char:EOLhyphen"/>mandement.</head>
+                     <item>1 FAlſe witneſſe-bearing in publike or priuate, or conſent thereunto.</item>
+                     <item>2 Raiſing, ſpreading abroad, or liſte<g ref="char:EOLhyphen"/>ning to falſe reports of tale-bearers.</item>
+                     <item>3 Raſh ſuſpition<g ref="char:punc">▪</g> hard iudging, inter<g ref="char:EOLhyphen"/>preting things in the worſt ſenſe.</item>
+                     <item>4 Aggrauating and diſcouering others infirmities without care of their credite, others edification, orour owne good.</item>
+                     <item>5 Flattery.</item>
+                     <pb facs="tcp:173386:10"/>
+                     <item> 6 Lying, though in ieſt, or to a good end.</item>
+                     <item>7 Boaſting.</item>
+                     <item>8 Iniurious charging of our ſelues to be hypocrites in time of temptation.</item>
+                     <item>9 Want of care, of our owne, and o<g ref="char:EOLhyphen"/>thers good name, that God might haue more glory.</item>
+                  </list>
+                  <list>
+                     <head>The breach of the tenth Comman<g ref="char:EOLhyphen"/>dement: by</head>
+                     <item>MVltitudes of euill thoughts and mo<g ref="char:EOLhyphen"/>tions againſt our neighbours, and ſcarcity of ſuch as are good.</item>
+                  </list>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>VVhen we haue attained to a par<g ref="char:EOLhyphen"/>ticular ſight of our many and grieuous iniquities and tranſgreſſions, what is fur<g ref="char:EOLhyphen"/>ther to be done for vs?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>We muſt labor to bring our hearts <note place="margin">
+                     <hi>Dan.</hi> 9. 9. 2 <hi>Godly ſorrow. See the Sermo<g ref="char:cmbAbbrStroke">̄</g> on <hi>Iſa.</hi>
+                     </hi> 1. <hi>Doct.</hi> 1. <hi>Iam.</hi> 4. 8, 9. <hi>Ier.</hi> 4. 14. <hi>Ioel.</hi> 2. 13. <hi>Zac.</hi> 12. 20. <hi>Chr.</hi> 13. 8</note> to true ſorrow &amp; contrition for the ſame.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>VVhat vſe is there of that?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>It is requiſite in diuers reſpects: it beeing a ſpeciall meanes to purge our ſoules from the pollution of ſinne, to moue the Lord to haue compaſſſion on vs, and plen<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>fully to poure downe his mercies vpon vs, without which, it is certaine there is no ſound repentance in vs, nor mercy to be expected from our God.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:173386:10"/>
+               <speaker>Q.</speaker>
+               <p>Sith it is ſo neceſſary, ſhew mee how it may be gotten?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Firſt, wée muſt beſéech the Lord, (from whom procéedeth euery good and perfect gift) to worke it in our hearts.</p>
+               <p>Secondly, wée muſt vſe all good helpes to ſtirre vp our ſelues thereunto: as,</p>
+               <p>Firſt, to call to minde the multitude, and grieuouſneſſe, and offenſiueneſſe of <note place="margin">
+                     <hi>Nehem.</hi> 9 <hi>Pſal.</hi> 51.</note> our ſinnes, together with our long conti<g ref="char:EOLhyphen"/>nuance therein: aggrauating them by eue<g ref="char:EOLhyphen"/>ry circumſtance to make them more odi<g ref="char:EOLhyphen"/>ous to our ſelues.</p>
+               <p>Secondly, to goe to the houſe of mour<g ref="char:EOLhyphen"/>ning, <note place="margin">
+                     <hi>Eccleſ.</hi> 7.</note> and to make vſe of euery ſtroake of God, as well vpon others, as our ſelues.</p>
+               <p>Thirdly, not onely with patience to en<g ref="char:EOLhyphen"/>dure, but with earneſtnes to intreat, and with gladneſſe to accept of the help of ſuch as haue broken hearts themſelues, and ſo are more able and ſkilfull to pierce and wound the ſoules of others.</p>
+               <p>Fourthly, when by our owne ſifting, and others faithfull dealing; our hearts are touched with ſome remorſe, let vs ſe<g ref="char:EOLhyphen"/>riouſly and throughly ponder vpon the in<g ref="char:EOLhyphen"/>finite mercy of God the Father, in giuing his Sonne, and of Chriſt Ieſus in giuing
+<pb facs="tcp:173386:11"/> himſelfe for vs, who by reaſon of our ſins were deadly enemies vnto him: the conſi<g ref="char:EOLhyphen"/>deration whereof cannot but moue our hearts to relent, vnleſſe they be altogether flinty, and hard as Adamant.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>When our hearts are touched with inward griefe for our ſpeciall corrupti<g ref="char:EOLhyphen"/>ons, what is to be done in the next place? <note place="margin">3 <hi>Confeſ<g ref="char:EOLhyphen"/>ſion. See the Sermo<g ref="char:cmbAbbrStroke">̄</g> on Prou.</hi> 28. <hi>Doct.</hi> 2. 2 <hi>Ioh.</hi> 1. 9, 2 <hi>Sam.</hi> 24. 12.</note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Wée muſt bring them in an holy confeſſion before God.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>What motiues are there to induce vs ſo to doe?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Diuers: for firſt, without this there is no promiſe of pardon of ſin, nor indéed any godly ſorrow, or ſound repentance for ſinne.</p>
+               <p>Secondly, this is a ſoueraigne preſer<g ref="char:EOLhyphen"/>uatiue againſt relapſes, as may be ſéene in <hi>Dauid, Peter,</hi> and <hi>Paul.</hi>
+               </p>
+               <p>Thirdly, this is an effectuall meanes <note place="margin">
+                     <hi>Dan.</hi> 9. 19. <hi>Neh.</hi> 1. 5, 6.</note> to quicken our hearts vnto prayer.</p>
+               <p>Fourthly, hereby God is much glorifi<g ref="char:EOLhyphen"/>ed in his Truth, Mercy, and Iuſtice.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>Seeing this acknowledgement of ſin is ſo needfull, declare how it muſt be performed?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Theſe rules muſt be obſerued therein. Firſt that it procéed from a good root, <hi>viz.</hi>
+               </p>
+               <p n="1">
+                  <pb facs="tcp:173386:11"/> 1 From an vtter hatred of ſinne: not from wearineſſe vnder the Croſſe, as in <hi>Pharaoh,</hi> nor from ſome ſudden paſſion, as in <hi>Saul.</hi>
+               </p>
+               <p n="2">2 From hope of mercy: for if that bée <note place="margin">2 <hi>Sam.</hi> 14. 18.</note> wanting, we ſhall neuer reſt on God for pardon.</p>
+               <p>Secondly, that it may be made in a good manner, <hi>viz.</hi>
+               </p>
+               <p n="1">1 Heartily and ſincerely, not coldly and hypocritically.</p>
+               <p n="2">2 Particularly and with enumeration of our ſpeciall and moſt beloued ſins, as in <note place="margin">
+                     <hi>Ier.</hi> 31. 19.</note> 
+                  <hi>Paul</hi> and <hi>Ezra.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>What will follow vpon ſuch a confeſſion?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>A deſire of reformation, and a full <note place="margin">4 <hi>Refor<g ref="char:EOLhyphen"/>mation. See the Sermo<g ref="char:cmbAbbrStroke">̄</g> on Prou.</hi> 28. <hi>Doct.</hi> 3. <hi>Acts</hi> 19. 18 <hi>Iſa</hi> 1. 16.</note> purpoſe to abandon the allowance of eue<g ref="char:EOLhyphen"/>ry infirmity, and the practiſe of euery groſſe ſinne.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>How may this reformation be at<g ref="char:EOLhyphen"/>tained vnto?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Firſt, wée muſt conſtantly and care<g ref="char:EOLhyphen"/>fully auoid all the occaſions of ſinne, and bée moſt ſealous of our ſelues where wée are moſt prone to be ouertaken.</p>
+               <p>Secondly, wée muſt conſcionably and continually vſe all the meanes of goodnes.</p>
+               <pb facs="tcp:173386:12"/>
+               <p> Thirdly, when we are euertaken through infirmity, we muſt preſently and heartily lament our fall, and ſeeke a reconciliation.</p>
+               <p>Fourthly, if theſe meanes preuaile not, wée muſt binde our ſelues by a ſolemne vow to ſtriue againſt our principall ſins, and moſt dangerous corruptions.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>what other notes are there beſides theſe already ſpoken of, wherby we may be aſſured that our repentance is ſound, &amp; that our harts doe not deceiue vs therein?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Theſe following: Firſt, if wée bée vniuerſall in our obedience deſiring to <note place="margin">
+                     <hi>Notes of ſound re<g ref="char:EOLhyphen"/>pentance. <hi>Pſal.</hi>
+                     </hi> 119<g ref="char:punc">▪</g> 6 <hi>See the Sermo<g ref="char:cmbAbbrStroke">̄</g> on that place Doct.</hi> 2. <hi>Pſ.</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 13, 14 <hi>Ioh.</hi> 31. 1. 1 <hi>Cor.</hi> 4. 3.</note> practiſe or forbeare whatſoeuer GOD would haue vs: not giuing a diſpenſation to our ſelues for the committing of any ſinne, or for the omitting of any du<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, but <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> manner of euill both in our ſelues and others.</p>
+               <p>Secondly, if we increaſe in goodneſſe, neither waxing worſe, nor ſtanding at a ſtay, but daily getting ground of our cor<g ref="char:EOLhyphen"/>ruptions.</p>
+               <p>Thirdly, if in all our intents and acti<g ref="char:EOLhyphen"/>ons wée looke vnto the Lord, as the ſear<g ref="char:EOLhyphen"/>cher of our hearts, and the tryer &amp; rewar<g ref="char:EOLhyphen"/>der of our workes, not diſcouraging our ſelues whatſoeuer men thinke, or ſpeake
+<pb facs="tcp:173386:12"/> of vs and our doings, ſo that God doe ap<g ref="char:EOLhyphen"/>proue of vs and them: not contenting our ſelues with mens approbations when the teſtimony of God is not for vs.</p>
+               <p>Fourthly, if wée like beſt, and deſire moſt that company in priuate, and that teaching in publike, where our ſpeciall cor<g ref="char:EOLhyphen"/>ruptions ſhall be roundly and wiſely, and mercifully reproued &amp; inueighed againſt, and the duties wherein we come ſhorteſt, moſt earneſtly preſſed, and ſtood vpon: neither falling out with thoſe that admo<g ref="char:EOLhyphen"/>niſh vs, nor denying, cloaking, excuſing or extenuating our faults.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>What elſe is required in a worthy receiuer?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>A competent meaſure of knowledge, ſo that he be able to diſcerne betweene the <note place="margin">2 <hi>Know<g ref="char:EOLhyphen"/>ledge.</hi>
+                  </note> elements, and the Lords body and blood: taking euery thing in it owne nature and kinde: not confounding the ſigne with the thing ſignified, nor putting no diffe<g ref="char:EOLhyphen"/>rence betwéene the Sacramentall and common bread, but vſing each of them in the manner apointed by Chriſt, and with ſuch reuerence as is due vnto them, &amp; to that end for which they were ordained: namely, the commemoration of Chriſt
+<pb facs="tcp:173386:13"/> his death, and our néerer and fuller com<g ref="char:EOLhyphen"/>munion with him.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>VVhat further examination muſt we vſe before our communicating at the Lords Table?</p>
+            </sp>
+            <sp>
+               <speaker>A:</speaker>
+               <p>Wée muſt trie whether wée haue faith or not: without the which it is im<g ref="char:EOLhyphen"/>poſſible <note place="margin">3 <hi>Faith. <hi>Heb.</hi>
+                     </hi> 11. 6. <hi>Rom</hi> 14. 23.</note> to pleaſe God, and whatſoeuer we doe is ſinne.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>VVhat then is to be beleeued con<g ref="char:EOLhyphen"/>cerning this particular ordinance?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>That it is ordained of God not to <note place="margin">
+                     <hi>Se the</hi> 2. <hi>Sermo<g ref="char:cmbAbbrStroke">̄</g> on <hi>N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t.</hi>
+                     </hi> 14. <hi>Doct.</hi> 7.</note> bée a ſigne to ſignifie and repreſent, but a ſeale alſo to confirme, and an inſtrument to exhibit Chriſt with all his merits vnto euery beléeuer.</p>
+            </sp>
+            <sp>
+               <speaker>Q<g ref="char:punc">▪</g>
+               </speaker>
+               <p>VVhy is loue vnto men required in all faithfull receiuers.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Firſt, becauſe being deſtitute of that wée cannot be aſſured of Gods loue vnto <note place="margin">4 <hi>Loue.</hi>
+                  </note> vs, nor of our loue vnto him.</p>
+               <p>Secondly, wée cannot with any confi<g ref="char:EOLhyphen"/>dence <note place="margin">
+                     <hi>Ioh.</hi> 3.</note> expect at the Sacrament a generall acquittance from all our debts vnto God, except we in loue, can paſſe by ſmall offen<g ref="char:EOLhyphen"/>ces in our brethren.</p>
+               <p>Thirdly, the Lords Supper is ordai<g ref="char:EOLhyphen"/>ned as a ſeale of a mutuall fellowſhip, and <note place="margin">
+                     <hi>Mat.</hi> 18. 35</note>
+                  <pb facs="tcp:173386:13"/> communion of Gods people, as with their head Chriſt, ſo with one another.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>VVhat rules are we to obſerue in loue?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Firſt, if any indignity or iniury <note place="margin">
+                     <hi>See the Sermon on <hi>Iſai.</hi>
+                     </hi> 1 <hi>Doct.</hi> 1 <hi>Mat.</hi> 18. 35 <hi>Rom.</hi> 12. <hi>Mat.</hi> 5.</note> haue béene offered vs, wée muſt forgiue, and forget the ſame, and ouercome euill with goodneſſe: louing them that hate vs, and praying for them that ſpeake and pra<g ref="char:EOLhyphen"/>ctiſe euill againſt vs, at leaſt deſiring and ſtriuing ſo to doe.</p>
+               <p>Secondly, if wée haue done wrong vnto others, wée muſt vndoe it againe: other<g ref="char:EOLhyphen"/>wiſe our ſacrifice and ſeruice cannot bée accepted.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>But what if thoſe that wee haue wronged bee farre off, that wee cannot ſeeke vnto them: or will not yeeld to a reconciliation when it is ſought for?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>God will accept of our true and vn<g ref="char:EOLhyphen"/>fained deſire in that behalfe, when a re<g ref="char:EOLhyphen"/>conciliation is deſired, but occaſion de<g ref="char:EOLhyphen"/>nied, and if others will not be pacified to<g ref="char:EOLhyphen"/>wards vs, it is their fault and not ours, neither muſt that kéepe vs from the Sa<g ref="char:EOLhyphen"/>crament.</p>
+               <p>
+                  <hi>Thus much concerning examination.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb facs="tcp:173386:14" rendition="simple:additions"/>
+               <speaker>Q.</speaker>
+               <p>what is that Premeditation which muſt be vſed?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>It is a ſerious conſideration of the <note place="margin">2 <hi>Preme<g ref="char:EOLhyphen"/>diatinu.</hi>
+                  </note> benefits which we are to receiue by Chriſt Ieſus.</p>
+            </sp>
+            <sp>
+               <speaker>Q</speaker>
+               <p>what are thoſe?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>They ſet downe in the new co<g ref="char:EOLhyphen"/>uenant <note place="margin">
+                     <hi>Eze</hi> 36. 21. <hi>Ier.</hi> 31. 31.</note> (whereof the Lords Supper is a ſeale,) and they may be reduced to theſe heads.
+<list>
+                     <item>1. Fréedome from all manner of euill whatſoe<g ref="char:EOLhyphen"/>uer, whether of ſinne or miſery, in this life or in that which is to come:</item>
+                     <item>2 The in<g ref="char:EOLhyphen"/>ioyme<g ref="char:cmbAbbrStroke">̄</g>t of all good things:
+<list>
+                           <item>1. In this World: and that,
+<list>
+                                 <item>1. For the in<g ref="char:EOLhyphen"/>ward man.
+<list>
+                                       <item>1. Perfect iuſtifi<g ref="char:EOLhyphen"/>cation.</item>
+                                       <item>2. True ſanctifi<g ref="char:EOLhyphen"/>cation.</item>
+                                    </list>
+                                 </item>
+                                 <item>2. For the outward man.
+<list>
+                                       <item>a good name, eſtate, ſafety, health, &amp;c.</item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>2. In the world to come.
+<list>
+                                 <item>all manner of hap<g ref="char:EOLhyphen"/>pineſſe. &amp;c.</item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>Hauing thus examined our ſelues concerning our repentance, knowledge, faith, and loue, and vſed premeditation
+<pb facs="tcp:173386:14"/> of the benefits that are to be expected of all worthy receiuers, what remaineth further to be done by vs?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Wée muſt before our approaching <note place="margin">3 <hi>Prayer.</hi>
+                  </note> to the Lords Table, earneſtly beſéech his Maieſty to giue a bleſſing to theſe our en<g ref="char:EOLhyphen"/>deauours: and where wée haue come ſhort in fitting our ſelues, wée are to intreate him to pardon i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; to accept of vs in the me<g ref="char:EOLhyphen"/>diation of his deare Sonne, and to make a ſupply of all our wants, of his rich mercy and frée grace.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>But what if a man find that he com<g ref="char:EOLhyphen"/>meth very ſhort of that examination, and preparation that is required; were he not better to be abſent himſelfe from the Sa<g ref="char:EOLhyphen"/>crament, till he be better fitted?</p>
+            </sp>
+            <sp>
+               <speaker>A</speaker>
+               <p>In no wiſe: for if he be vpright hear<g ref="char:EOLhyphen"/>ted, <note place="margin">
+                     <hi>See the</hi> 2. <hi>Sermon on</hi> 2 <hi>Ch.</hi> 30 <hi>Doct.</hi> 3</note> though neuer ſo weake, the Lord will accept of him. And if hee féele his ſicknes to be grieuous and dangerous, hée hath the more néed to haſten to the Phiſition: nei<g ref="char:EOLhyphen"/>ther is the ſtaying from Gods ordinance a meanes to better his eſtate, but rather to make him worſe, and to pull Gods heauy iudgments vpon his ſoule &amp; body. <hi>Num.</hi> 9.</p>
+               <p>
+                  <hi>Thus much concerning the duties ten<g ref="char:EOLhyphen"/>ding to preparatio<g ref="char:cmbAbbrStroke">̄</g> before our receiuing.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb facs="tcp:173386:15"/>
+               <speaker>Q.</speaker>
+               <p>How muſt wee be diſpoſed in the preſent act of receiuing?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Wée muſt preſent our ſelues with reuerence be fore the Lord, ſetting our ſen<g ref="char:EOLhyphen"/>ſes <note place="margin">
+                     <hi>How wee are to bee diſpoſed in the act of receiuing. <hi>Iſai.</hi>
+                     </hi> 53.</note> and our faith a works, and heed fully meditating vpon theſe fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re things.</p>
+               <p>Firſt, when we ſee the bread broken, and the wine poured out, wée muſt con<g ref="char:EOLhyphen"/>ſider the bitter paſſion of Chriſt Ieſus, who was wounded for our tranſgreſſi<g ref="char:EOLhyphen"/>ons, and broken for our iniquities; who encountred with his Fathers wrath, and with Sathan, death, and hell: and for our ſakes in particular ſuſtained ſuch woefull terrors in his ſoule, and torments in his body, that hée cried out in the bitterneſſe of his heart, <hi>My God, my God, why haſt thou forſaken me?</hi> and at length, ſhedde forth his moſt precious bloold for the paci<g ref="char:EOLhyphen"/>fying of his Fathers diſpleaſure, and the ſatiſfying of his infinite iuſtice. And with<g ref="char:EOLhyphen"/>all we ſhould ſeriouſly ponder vpon the inconceiueable loue of God the Father, in giuing his onely and well beloued Son, to ſuffer <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ch vnſpeakeable fortures for vs, who were curſed Rebels againſt him: and thence bée drawne to thinke on the hai<g ref="char:EOLhyphen"/>nouſneſſe and odiouſneſſe of our ſinnes,
+<pb facs="tcp:173386:15"/> which ſo farre incenſed the Lords wrath &amp; indignation, that nothing could quench the flame thereof, but onely the precious blood of his deare Sonne.</p>
+               <p>Secondly, when we ſée the Miniſter di<g ref="char:EOLhyphen"/>ſtributing the bread and wine, wée are to conſider, that as thoſe outward elements are offered vnto vs by man: ſo Chriſt Ie<g ref="char:EOLhyphen"/>ſus with all his benefits is offered vnto vs by the bleſſed Trinity.</p>
+               <p>Thirdly, that as we reach forth our na<g ref="char:EOLhyphen"/>turall hand to receiue the bread and wine, wée muſt withall reach forth the hand of faith to apprehend and lay holde on Chriſt.</p>
+               <p>Fourthly, in eating the berad and drinking the wine, wée muſt apply Chriſt with all his merits particularly vnto our ſelues, and be aſſured, that as that bread and wine are made the nouriſhment of our bodies: ſo Chriſt his body and blood are made the nouriſhment of our ſoules: And as certainely as the bread and wine are made one ſubſtance with vs, to ſtrengthen our bodies, and to refreſh our hearts, ſo ſurely Chriſt is made one with vs, and we with him, and then our ſoules ſhall bée ſtrengthened, and our hearts
+<pb facs="tcp:173386:16"/> ſpiritually reuiued, either preſently in the very act of receiuing, or afterwards in due time, when wée ſhall ſtand in moſt néede of comfort. And therefore in aſſu<g ref="char:EOLhyphen"/>rance of faith we ſhould ſtir vp our hearts to expect all the forenamed benefits of re<g ref="char:EOLhyphen"/>miſſion of ſinnes, and ſanctification of our natures, together with the fruition of all outward bleſſings, and the remouall of all hurtfull croſſes.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>well were it for vs indeede, if we could look for theſe things to be beſtow<g ref="char:EOLhyphen"/>ed vpon vs: but the greatneſſe and mul<g ref="char:EOLhyphen"/>titude of our ſinnes is ſuch, that we iuſtly feare they wil keep good things from vs.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>This doubt ſhould not perplex <note place="margin">
+                     <hi>See the Sermon on <hi>Iſai.</hi>
+                     </hi> 1. <hi>Doct.</hi> 7. 1 <hi>Ioh.</hi> 1. 6. <hi>Eze.</hi> 36. 25</note> nor trouble vs, if wée be truely penitent for all our tranſgreſſions: for Chriſt hath paid for many and great ſinnes, as well as for fewer &amp; leſſer: and through him the Lord is ready to pardon all, and all manner of iniquities, as well the greateſt of them, as the ſmalleſt, and if once our ſins bée done away, all the forenamed benefits doe of right belong to vs.</p>
+               <p>
+                  <hi>Thus much concerning the meditati<g ref="char:EOLhyphen"/>ons that are needful in the very act of re<g ref="char:EOLhyphen"/>ceiuing.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb facs="tcp:173386:16" rendition="simple:additions"/>
+               <speaker>Q.</speaker>
+               <p>What is to be done after our re<g ref="char:EOLhyphen"/>ceiuing?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Firſt, wée muſt giue hearty thanks vnto the Lord for this ineſtimable bene<g ref="char:EOLhyphen"/>fite, <note place="margin">3 <hi>What to bee done after our receiuing.</hi>
+                  </note> which wée haue receiued in being par<g ref="char:EOLhyphen"/>takers of the Lords Supper.</p>
+               <p>Secondly, wèe muſt carefully marke how wée ſpéed, and what ſucceſſe we find, and if the Lord aff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ord vs preſent comfort, we muſt be much more thankefull, and en<g ref="char:EOLhyphen"/>deauor by all good meanes to nouriſh and cheriſh the ſame, and if wée miſſe of it for that time, wée muſt notwithſtanding giue God the glory of his truth, in making good his Couenant and euery part thereof, and therefore with confidence and con<g ref="char:EOLhyphen"/>ſtancy waite and pray for the bleſſing: re<g ref="char:EOLhyphen"/>ſoluing with our ſelues (euery one in his owne ſoule) that as ſure as God is true, and faithfull in his promiſes, wée ſhall in the fitteſt ſeaſon reape fruit and profit by his ordinance, which in conſcience and o<g ref="char:EOLhyphen"/>bedience vnto him, wée haue béene parta<g ref="char:EOLhyphen"/>kers of. In which regard euery particu<g ref="char:EOLhyphen"/>lar beléeuer may boldly ſpeake, in this, or the like manner vnto his owne ſoule: I haue with as great vprightneſſe as I could, communicated at the Lords table,
+<pb facs="tcp:173386:17" rendition="simple:additions"/> and there receiued the ſeale of the euerla<g ref="char:EOLhyphen"/>ſting couenant of grace, and therefore it ſhall aſſuredly be performed vnto me: and albeit my faith, and aſſurance of Gods fa<g ref="char:EOLhyphen"/>uour bée but weake, it ſhall bée ſtrengthe<g ref="char:EOLhyphen"/>ned, and whatſoeuer Sathan, or mine owne deluded conſcience tell me, all mine iniquities are pardoned and couered, and I am at this very inſtant, as frée from ſin in Gods account, as <hi>Adam</hi> was before <note place="margin">
+                     <hi>Pſal.</hi> 32.</note> his fall, and as the Saints and Angels are now in heauen; yea, as Chriſt Ieſus him<g ref="char:EOLhyphen"/>ſelfe is, I being a member of his myſticall body.</p>
+               <p>And for ſanctification, though I bée tainted with much ignorance, with many errours, with bad affections and euill acti<g ref="char:EOLhyphen"/>ons, yet the Lord according to his Coue<g ref="char:EOLhyphen"/>nant, will reforme all, and giue me a mind to know him, and his will, and a memo<g ref="char:EOLhyphen"/>ry to hold faſt what I know: hée will giue mée a heart to loue him, to feare him, and to obey his Commandements. I ſhall haue Chriſt his power to ſtrengthen and vphold mée, his wiſdome to inſtruct and direct mée, and his Spirit to worke all néedfull graces in mée, ſo that all the pow<g ref="char:EOLhyphen"/>ers of hell ſhall neuer bée able to preuaile
+<pb facs="tcp:173386:17"/> againſt mée, much leſſe ſhall the afflicti<g ref="char:EOLhyphen"/>ons of this World be able to ſeparate mée from Chriſt Ieſus, I néede not feare any euill: For all ſhall worke together for the beſt vnto mée, neither can I want any thing that is good, for <hi>God hauing giuen</hi> 
+                  <note place="margin">
+                     <hi>Rom.</hi> 8.</note> 
+                  <hi>vs his Sonne, how ſhall hee not with him giue vs all things?</hi>
+               </p>
+               <p>Thirdly, wée muſt determine and en<g ref="char:EOLhyphen"/>deauour to leade a new life, bringing forth the fruits of Repentance, Faith, &amp; Loue, more aboundantly then in former times, as hauing renued our couenant with the Lord for that purpoſe: and therefore when we find any ſinfull motions ſtirring with<g ref="char:EOLhyphen"/>in vs, wée ſhould reaſon thus: Did I not at the Sacrament vowe and couenant with God to ſtriue againſt all manner of corruptions? and did I not receiue the ſeale of the couenant in aſſurance that I ſhould haue power and ſtrength againſt them? Why then ſhould I yéeld vnto them? why ſhould I be any longer in bondage vnto them? nay, I will not ſerue ſinne in the luſts thereof, but will reſiſt it, and by the power of Chriſt I ſhall get vic<g ref="char:EOLhyphen"/>tory ouer it: for the Lord hath ſaid that <note place="margin">
+                     <hi>Rom.</hi> 6. 14.</note> 
+                  <hi>ſinne ſhall not haue dominion ouer vs.</hi>
+               </p>
+               <pb facs="tcp:173386:18"/>
+               <p> So alſo when wée find wants and im<g ref="char:EOLhyphen"/>perfections in our beſt ſeruices, as cold<g ref="char:EOLhyphen"/>neſſe in prayer, diſtractions in meditating, vnfruitfulneſſe in hearing, deadneſſe in ſinging of Pſalmes, &amp;c. As alſo impatien<g ref="char:EOLhyphen"/>cy, or faint-heartedneſſe vnder croſſes, diſgraces, perſecutions, &amp;c. Let vs thou reléeue our ſelues with theſe, or the like meditations: Was I not lately at the Lords Table, where I receiued a pledge of my ingrafting into Chriſt, who is the true Vi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e? and is there not in him ſuffici<g ref="char:EOLhyphen"/>ent iuyce of all good graces to be deriued to euery branch that is in him: and is not the ſecond <hi>Adam</hi> as able to conuey his ver<g ref="char:EOLhyphen"/>tues into mée, as the firſt <hi>Adam</hi> was to conuey his corruptions<g ref="char:punc">▪</g> why then ſhould I not ſéeke to him, in aſſurance of obtai<g ref="char:EOLhyphen"/>ning ſtrength to doe and ſuffer whatſoe<g ref="char:EOLhyphen"/>uer hée will haue mée? yea, I will runne vnto him, and craue power and ability <note place="margin">
+                     <hi>Iob.</hi> 15.</note> from him, and aſking, I ſhall obtaine: for hée hath ſaid it, that will neuer falſifie the leaſt part of his truth.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>May it not then bee concluded, if immediatly vpon the receuiing of this Sacrame<g ref="char:cmbAbbrStroke">̄</g>t, we grow worſe then we were before, that we came vnworthily there<g ref="char:EOLhyphen"/>vnto?</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:173386:18"/>
+               <speaker>A.</speaker>
+               <p>Yes verily, if wée be indéed worſe, and not in our owne conceit onely, it is ſure that there was ſome ſinne or other vnrepented of lying vpon our conſciences, which cauſed Gods ordinance to be inef<g ref="char:EOLhyphen"/>fectuall. Indéed the worthieſt receiuers, in their owne imaginations, and through Sathans falſe ſuggeſtions, ſéeme vnto themſelues to be worſe, (when in truth they are not ſo) becauſe they féele their corruptions ſtirring more violently, and temptations ruſhing vpon them more fiercly then e<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r before: but this is ſo farre from being an argument of vnwor<g ref="char:EOLhyphen"/>thy receiuing, that if they ſet themſelues to reſiſt this combate, there can be no more euident teſtimony of their worthy receiuing: for now that their ſinne hath had a deadly blow, it beginneth (like a mad bull in the ſame caſe) to rage more furi<g ref="char:EOLhyphen"/>ouſly: and Sathan being diſpoſſeſſed of his holdes, plyeth his buſineſſe with new and fearefull aſſaults; and therefore ſuch haue no cauſe at all to bée diſmayed, but rather very great cauſe to be comforted.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>But (will ſome ſay) what ſhall I thinke of my ſelfe in this matter, when I finde, that whereas I reſolued vpon new
+<pb facs="tcp:173386:19"/> obedience, I come ſtill farre ſhort of that which I am deſirous to performe?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>You néed not diſcourage your heart for all this: the ſight of your imperfections argueth that your eyes are more inlighte<g ref="char:EOLhyphen"/>ned then in former times, and that you haue gotten an humble and lowly conceit of your ſelfe, and your good déeds, which are things very pleaſing vnto God: nei<g ref="char:EOLhyphen"/>ther doth hée require ſuch ſtrict obſeruation of the Commandements, as that wée <note place="margin">
+                     <hi>See the Sermon on <hi>Iſa.</hi>
+                     </hi> 1. <hi>Doct.</hi> 1.</note> ſhould obey them in perfection, but onely that wée ſhould conſent in our hearts, and labour in our practiſe to yéeld obedience thereunto: which if we can doe, the Lord <note place="margin">
+                     <hi>See the Sermon on</hi> 2 <hi>Ch.</hi> 30 <hi>Doct</hi> 3.</note> will graciouſly accept of vs, and of thoſe duties which wée performe, ſéeing that we fall not in the ſubſtance of his ſeruice, but onely in ſome circumſtances, and that full ſore againſt our wils.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:173386:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
